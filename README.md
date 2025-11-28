@@ -41,7 +41,7 @@ Todos os testes podem ser realizados diretamente pelo Swagger UI (/docs) ou util
 Requisição
 URL: POST 
 http://localhost:8000/players
-Resposta: Resposta (Sucesso - 200 OK)
+Resposta: (Sucesso - 200 OK)
 Body (JSON):
 json\n{\n "name": "João"\n}
 Body (JSON)
